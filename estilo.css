@@ -1,0 +1,39 @@
+body{
+ background-color: rgb(228, 170, 197) ;   
+ font-family: Georgia, serif;
+ text-align: center;
+}
+section{
+
+    background-color: rgb(235, 133, 181) ; 
+    padding: 10 px;
+    margin: 20px auto;
+}
+img {
+    width: 100px;
+ border-radius: 50%;
+}
+.contenedor {
+    max-width: 1000px;
+    margin: auto;
+    box-shadow: black;
+}
+h2 {
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+ul {
+    text-align: center;
+    padding-left: 0%;
+    list-style-type: none;
+    max-width: 100%;
+    
+}
+footer {
+margin: 10px;
+    text-align: center;
+    background-color: aqua;
+    background-color: rgb(226, 43, 165); color: white;
+}
+header{
+    background-color: rgb(226, 43, 165);
+}
